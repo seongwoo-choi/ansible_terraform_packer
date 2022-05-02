@@ -1,4 +1,4 @@
 terraform/env/dev/.terraform/modules
 terraform/env/dev/.terraform/providers
 .idea
-/vars/rds_endpoint_info.yml
+/varssss/rds_endpoint_info.yml
