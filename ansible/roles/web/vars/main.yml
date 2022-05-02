@@ -1,0 +1,11 @@
+---
+php_packages: php,php-curl,php-xml,php-gd,php-mysql,python3-mysqldb
+wordpress_version: 5.9.3
+wordpress_filename: "wordpress-{{ wordpress_version }}.tar.gz"
+wordpress_url: "https://wordpress.org/{{ wordpress_filename }}"
+
+# RDS
+database:
+  name: wordpress
+  user: admin
+  pwd: chma0326

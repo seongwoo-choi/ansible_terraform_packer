@@ -1,0 +1,4 @@
+terraform/env/dev/.terraform/modules
+terraform/env/dev/.terraform/providers
+.idea
+/vars
